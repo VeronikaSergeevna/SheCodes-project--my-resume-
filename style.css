@@ -97,10 +97,6 @@ p {
   color: black;
 }
 
-.weather-picture {
-  background-color: var(--secondary-color);
-}
-
 .black-bold-text {
   color: black;
   font-weight: bold;
