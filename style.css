@@ -102,3 +102,12 @@ p {
   font-weight: bold;
   opacity: 10;
 }
+
+@media (max-width: 815px) {
+  h1 {
+    font-size: 48px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+}
