@@ -25,12 +25,15 @@ h3 {
   font-family: "Playfair Display", serif;
 }
 p {
-  background: var(--secondary-color);
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
   text-align: center;
+}
+
+.secondary_color {
+  background: var(--secondary-color);
 }
 
 .navigation-links {
